@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Laravel developer from Egypt</h3>
 
 
-<p align="center">
+<p style='text-align=center;' align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Backend+Laravel+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+" alt="Typing SVG" /></a>
 </p>
 
