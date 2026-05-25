@@ -15,7 +15,7 @@
 
 ## About Me
 
-Backend Laravel developer with 1+ year of professional experience, now expanding into Cloud & DevOps Engineering through the NTI Cloud DevOps Accelerator Scholarship (540 hours). I build scalable APIs, CRM systems, and ERP platforms — and I deploy and operate them with modern cloud infrastructure.
+Backend Laravel developer with 2+ year of professional experience, now expanding into Cloud & DevOps Engineering through the NTI Cloud DevOps Accelerator Scholarship (540 hours). I build scalable APIs, CRM systems, and ERP platforms — and I deploy and operate them with modern cloud infrastructure.
 
 - 🏗️ Building production-grade **CRM / ERP systems** with complex business logic and RBAC
 - ☁️ Provisioning cloud infrastructure on **AWS** with Terraform and Ansible
@@ -123,12 +123,6 @@ Provisioned a full AWS environment (VPC, EC2, RDS) using Terraform. Containerize
 | HCCDA – Tech Essentials | Huawei |
 | Cloud DevOps Accelerator (540 hrs) | NTI × iVolve Technologies |
 
----
-
-## Experience
-
-**Backend Developer** — Reach Agency *(Aug 2024 – Sep 2025, Remote)*
-Developed and deployed multiple Laravel-based systems (CMS, e-commerce, GYM management). Built RESTful APIs, Filament admin dashboards, and deployed production applications on VPS using NGINX, SSL, and GitHub Actions CI/CD.
 
 ---
 
@@ -149,6 +143,6 @@ GPA: 3.03 · Very Good
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehata18&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehata18&layout=compact&hide_border=true&theme=default" height="150" />
 </div>
