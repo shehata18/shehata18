@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/mohamedshehata182002@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedshehata182002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshehata18/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohamedshehata.cloud)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehata18)
 
 </div>
 
@@ -79,7 +79,7 @@ A full-featured CRM built for agencies managing international students studying 
 ---
 
 ### 🏢 ERP System *(In Progress)*
-`Laravel` `REST API` `Postgresql`
+`Laravel` `Filament` `REST API` `MySQL`
 
 A custom ERP platform inspired by Odoo, tailored for business operations management. Currently in active development covering core modules: HR, finance, inventory, and operations workflow.
 
@@ -100,7 +100,7 @@ Custom service booking site with animated design, dynamic content pages, and a f
 ---
 
 ### 🏋️ GYM Management System
-`Laravel` `MySQL` `REST API`
+`Python` `Django` `PosgreSQL` `REST API`
 
 Membership and session management platform with coupons, user measurements, support messages, and a comprehensive CRUD admin dashboard.
 
@@ -123,12 +123,11 @@ Provisioned a full AWS environment (VPC, EC2, RDS) using Terraform. Containerize
 | HCCDA – Tech Essentials | Huawei |
 | Cloud DevOps Accelerator (540 hrs) | NTI × iVolve Technologies |
 
-
 ---
 
 ## Education
 
-**B.Sc. Computer Science** — Faculty of Computers & AI, Damietta University *(2020 – 2024)*
+**B.Sc. Computer Science** — Faculty of Computers & AI, Damietta University *(2021 – 2024)*
 GPA: 3.03 · Very Good
 
 ---
