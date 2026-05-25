@@ -100,7 +100,7 @@ Custom service booking site with animated design, dynamic content pages, and a f
 ---
 
 ### 🏋️ GYM Management System
-`Python` `Django` `PosgreSQL` `REST API`
+`Python` `Django` `PostgreSQL` `REST API`
 
 Membership and session management platform with coupons, user measurements, support messages, and a comprehensive CRUD admin dashboard.
 
@@ -123,8 +123,6 @@ Provisioned a full AWS environment (VPC, EC2, RDS) using Terraform. Containerize
 | HCCDA – Tech Essentials | Huawei |
 | Cloud DevOps Accelerator (540 hrs) | NTI × iVolve Technologies |
 
----
-
 ## Education
 
 **B.Sc. Computer Science** — Faculty of Computers & AI, Damietta University *(2021 – 2024)*
@@ -141,7 +139,11 @@ GPA: 3.03 · Very Good
 
 ---
 
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehata18&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehata18&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehata18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehata18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
